@@ -1,6 +1,15 @@
 Simple Trello helper
 ===
 
+Prepare environment
+---
+
+Run:
+
+```
+pipenv install
+```
+
 `config.json`
 ---
 
