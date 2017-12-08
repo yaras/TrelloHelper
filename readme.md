@@ -4,6 +4,12 @@ Simple Trello helper
 Prepare environment
 ---
 
+Install `pipenv`
+
+```
+python -m pip install pipenv
+```
+
 Run:
 
 ```
